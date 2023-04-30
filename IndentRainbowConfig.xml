@@ -1,0 +1,6 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="opacityMultiplier" value="-0.8" />
+    <option name="paletteType" value="DEFAULT" />
+  </component>
+</application>
