@@ -1,0 +1,10 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+<<<<<<< HEAD
+=======
+  <inspection_tool class="DotEnvLowercaseKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ShellCheck" enabled="true" level="ERROR" enabled_by_default="true">
+    <shellcheck_settings value="SC1090,SC2034,SC2086" />
+  </inspection_tool>
+>>>>>>> refs/rewritten/PY-2022-2-3-sdhlfqr-vorador-Overwrite-local-to-https-github-com-sdhlfqr-jetbrains-settings-git-2
+</profile>
